@@ -1,0 +1,31 @@
+body {
+    background: url(https://images.pexels.com/photos/1028707/pexels-photo-1028707.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+background-size: 100vw
+}
+.container {
+    background: rgba(65, 64, 64, 0.274);
+    margin-top: 100px;
+    padding: 20px;
+    height: 190px;
+}
+.btn {
+    margin-top: 20px;
+
+}
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: rgb(89, 221, 238);
+    margin: 10px;
+
+}
+p {
+    color: white;
+    font-size: 18px;
+    font-family: 'Muli', sans-serif;
+
+}
+.tt {
+    margin-top: 180px
+}
